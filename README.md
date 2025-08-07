@@ -1,1 +1,1 @@
-A "bot" that I coded so that I wouldn't get kicked for being afk on Roblox.
+A script that I coded so that I wouldn't get kicked for being afk on Roblox.
