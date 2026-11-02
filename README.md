@@ -1,1 +1,1 @@
-This is an autoclicker that I made because I was tired of all of the malware infested ones that have both a confusing UI and are bloated with ads. It's 100% free, open source, and customizable. Have fun!
+
